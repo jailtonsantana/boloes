@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bolões</string>
+    <string name="title_activity_participantes">ParticipantesActivity</string>
+    <string-array name="loterias_array">
+        <item>Megasena</item>
+        <item>Lotofácil</item>
+        <item>Quina</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_resultado_fragment">Hello Resultados Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_estatisticas_fragment">Hello Estatísitcas Fragment</string>
+</resources>
